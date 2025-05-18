@@ -108,8 +108,8 @@ const AboutSection = () => {
               { name: "Premiere Pro", src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" },
               { name: "Illustrator", src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" },
               { name: "Photoshop", src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" },
-              { name: "Canva", src: "https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000" },
-              { name: "MS Office", src: "https://img.icons8.com/?size=100&id=116369&format=png&color=000000" },
+              { name: "Canva", src: "https://upload.wikimedia.org/wikipedia/he/5/56/Canva-logo.png" },
+              { name: "MS Office", src: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" },
               { name: "CapCut", src: "https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fb219ade937671b42e011e_capcut%20logo%20png.png" }
             ].map((tool, index) => (
               <motion.div
